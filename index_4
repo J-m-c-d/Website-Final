@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<body>
+    <head>
+        <meta charset="vtf-8">
+        <meta name="description" content="Game Developers' Website">
+        <meta name="Keywords" content="Video Games, Developers, Computers, Gaming">
+        <meta name="author" content="Joshua McDonnell">
+        <title> TRASHDEVS </title>
+        <link rel="stylesheet" type="text/css" href="Styles/MainStyle.css">
+     </head>
+
+
+     <center> <a href="index.html"><img src="Images/T-Devs2.0.png" alt ="logo" width="250px 250px"></a> </center>
+
+
+     <header>
+        <link>  <a href="index.html"><h1>TRASH DEVS</h1> </a> </link> 
+     </header>
+    
+     <nav>
+        <link> <hover> <a href="index_2.html"> About us </a></hover></link>
+        <link> <hover> <a href="index_3.html">  Games </a></hover></link>
+        <link> <hover> <a href="Latest Games.html"> Platforms </a></hover></link>
+      </nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
