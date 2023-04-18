@@ -1,6 +1,7 @@
  body{
     background-image: url(../Images/Mndatory\ BG.png);
-     background-repeat: repeat;}
+     background-repeat: repeat;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;}
      
 
 
@@ -67,7 +68,7 @@
     float: left;
     display: block;
     color: rgb(255, 255, 255);
-    padding: 25px 170px;
+    padding: 25px 165px;
     text-decoration: none;}
     
    
